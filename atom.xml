@@ -2,13 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lotuswang.github.io</id>
     <title>思维决定一切</title>
-    <updated>2022-01-11T09:28:59.320Z</updated>
+    <updated>2022-01-11T10:09:38.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lotuswang.github.io"/>
     <link rel="self" href="https://lotuswang.github.io/atom.xml"/>
     <logo>https://lotuswang.github.io/images/avatar.png</logo>
     <icon>https://lotuswang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 思维决定一切</rights>
+    <entry>
+        <title type="html"><![CDATA[如何做好个人财务规划]]></title>
+        <id>https://lotuswang.github.io/post/ru-he-zuo-hao-ge-ren-cai-wu-gui-hua/</id>
+        <link href="https://lotuswang.github.io/post/ru-he-zuo-hao-ge-ren-cai-wu-gui-hua/">
+        </link>
+        <updated>2022-01-11T10:08:04.000Z</updated>
+        <content type="html"><![CDATA[<p>TODO</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何制定有效的团队目标]]></title>
+        <id>https://lotuswang.github.io/post/ru-he-zhi-ding-you-xiao-de-tuan-dui-mu-biao/</id>
+        <link href="https://lotuswang.github.io/post/ru-he-zhi-ding-you-xiao-de-tuan-dui-mu-biao/">
+        </link>
+        <updated>2022-01-11T10:07:01.000Z</updated>
+        <content type="html"><![CDATA[<p>TODO</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理就是要松弛有度]]></title>
+        <id>https://lotuswang.github.io/post/guan-li-jiu-shi-yao-song-chi-you-du/</id>
+        <link href="https://lotuswang.github.io/post/guan-li-jiu-shi-yao-song-chi-you-du/">
+        </link>
+        <updated>2022-01-11T10:06:07.000Z</updated>
+        <content type="html"><![CDATA[<p>TODO</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计划，从小学抓起]]></title>
+        <id>https://lotuswang.github.io/post/ji-hua-cong-xiao-xue-zhua-qi/</id>
+        <link href="https://lotuswang.github.io/post/ji-hua-cong-xiao-xue-zhua-qi/">
+        </link>
+        <updated>2022-01-11T10:04:40.000Z</updated>
+        <content type="html"><![CDATA[<p>人的精力是有限的，所以我们需要把</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让所有人都参与到站立会议中来]]></title>
         <id>https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/</id>
