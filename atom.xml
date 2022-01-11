@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lotuswang.github.io</id>
     <title>思维决定一切</title>
-    <updated>2022-01-11T07:52:55.732Z</updated>
+    <updated>2022-01-11T08:27:23.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lotuswang.github.io"/>
     <link rel="self" href="https://lotuswang.github.io/atom.xml"/>
@@ -10,12 +10,26 @@
     <icon>https://lotuswang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 思维决定一切</rights>
     <entry>
-        <title type="html"><![CDATA[如何提升站立会议成员的参与感]]></title>
+        <title type="html"><![CDATA[让所有人都参与到站立会议中来]]></title>
         <id>https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/</id>
         <link href="https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/">
         </link>
         <updated>2022-01-11T07:04:42.000Z</updated>
-        <content type="html"><![CDATA[<p>站立会议可以及时发现问题进而解决问题，对推动周目标的达成必不可少。</p>
+        <content type="html"><![CDATA[<p>站立会议起源于敏捷，但即是团队没有采用敏捷开发方法，同样可以引入站立会议，及时了解目标的执行情况、过程问题等，以便及时调整目标，解决问题。</p>
+<p>站立会议如果开得不好，团队成员没有参与感，容易流为形式，没有达到预期的效果。</p>
+<p>我们团队采用季度目标——&gt;月度目标——&gt;周计划的目标管理方式。团队的项目开发方法，也没有严格按照敏捷的最佳实践来，我们定义为“类敏捷”开发方法。每个季度末，制定下一个季度的目标，并拆解到每个月度中。为了确保月度目标的达成，需要将月度目标很好的拆解到每周的工作计划中。在没有引用站立会议前，工作时常出现偏差，项目执行过程出现问题也在所难免，由于成员没有有效、及时反馈，导致周总结会议时才暴露问题，进度已经无法及时纠偏，造成项目延期。</p>
+<p>团队引用站立会议后，开始由固定成员组织，主要暴露了以下几个问题：</p>
+<ul>
+<li>会议主持者偶尔无法按时主持会议，导致会议容易中断</li>
+<li>成员参与感不够，发言时随意、不能完整、清晰描述工作和问题</li>
+</ul>
+<p>通过不断调整，我们指定一下会议制度和规范，站立会议也日趋成熟：</p>
+<ul>
+<li>会议时间固定为每天上午9:40（公司9:30上班，为了确保参与人准时参加，且有准备时间，所以延迟10分钟开）</li>
+<li>参会人员按照“昨天的工作完成情况、今天的计划、遇到的问题”提前准备好要讲的内容，而不是会上临时想，提升会议效率和效果</li>
+<li>所有人必须站立，且不能做与站立会议无关的事</li>
+<li>会议采用周轮流制，所有人都是主持者，每周由一个成员负责。</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
