@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lotuswang.github.io</id>
     <title>思维决定一切</title>
-    <updated>2022-01-11T09:01:37.120Z</updated>
+    <updated>2022-01-11T09:03:05.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lotuswang.github.io"/>
     <link rel="self" href="https://lotuswang.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <link href="https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/">
         </link>
         <updated>2022-01-11T07:04:42.000Z</updated>
-        <content type="html"><![CDATA[<p>站立会议起源于敏捷，但即使团队没有采用敏捷开发方法，同样可以引入站立会议，及时了解目标的执行情况和过程问题，以便调整目标、解决问题，避免后知后觉而导致项目延期。</p>
+        <content type="html"><![CDATA[<p>站立会议起源于敏捷，但即使团队没有采用敏捷开发方法，同样可以引入站立会议，及时了解目标的执行情况和过程问题，以便及时调整目标、解决问题，避免后知后觉而导致项目延期。</p>
 <p>站立会议如果开得不好，团队成员没有参与感，容易流为形式，没有达到预期效果。</p>
 <p>我们团队采用季度目标——&gt;月度目标——&gt;周计划的目标管理方式。团队没有严格按照敏捷的最佳实践来，我们定义为“类敏捷”开发方法。每个季度末，制定下一个季度的目标，并拆解到每个月度中。为了确保月度目标的达成，需要将月度目标有效拆解到每周的工作计划中。在没有引用站立会议前，工作时常出现偏差，加上项目执行过程出现问题在所难免，但由于成员没有有效、及时反馈，导致周总结会议时才暴露问题，进度因为没有及时纠偏，造成项目延期。</p>
 <p>团队引用站立会议后，开始由固定成员组织，主要暴露了以下几个问题：</p>
