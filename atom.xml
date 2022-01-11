@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lotuswang.github.io</id>
     <title>思维决定一切</title>
-    <updated>2022-01-11T11:07:53.991Z</updated>
+    <updated>2022-01-11T11:35:37.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lotuswang.github.io"/>
     <link rel="self" href="https://lotuswang.github.io/atom.xml"/>
     <logo>https://lotuswang.github.io/images/avatar.png</logo>
     <icon>https://lotuswang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 思维决定一切</rights>
+    <entry>
+        <title type="html"><![CDATA[良好的思维方式（一）]]></title>
+        <id>https://lotuswang.github.io/post/liang-hao-de-si-wei-fang-shi-ti-sheng-gong-zuo-de-cheng-xiao-yi/</id>
+        <link href="https://lotuswang.github.io/post/liang-hao-de-si-wei-fang-shi-ti-sheng-gong-zuo-de-cheng-xiao-yi/">
+        </link>
+        <updated>2022-01-11T11:08:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>利用全面的信息来考虑问题，可以让我们的决策更准确！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>利用全面的信息来考虑问题，可以让我们的决策更准确！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让所有人都参与到站立会议中来]]></title>
         <id>https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/</id>
