@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lotuswxl.github.io</id>
+    <id>https://lotuswang.github.io</id>
     <title>思维决定一切</title>
-    <updated>2022-01-11T07:34:49.750Z</updated>
+    <updated>2022-01-11T07:41:30.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lotuswxl.github.io"/>
-    <link rel="self" href="https://lotuswxl.github.io/atom.xml"/>
-    <logo>https://lotuswxl.github.io/images/avatar.png</logo>
-    <icon>https://lotuswxl.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://lotuswang.github.io"/>
+    <link rel="self" href="https://lotuswang.github.io/atom.xml"/>
+    <logo>https://lotuswang.github.io/images/avatar.png</logo>
+    <icon>https://lotuswang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 思维决定一切</rights>
     <entry>
         <title type="html"><![CDATA[如何提升站立会议成员的参与感]]></title>
-        <id>https://lotuswxl.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/</id>
-        <link href="https://lotuswxl.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/">
+        <id>https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/</id>
+        <link href="https://lotuswang.github.io/post/ru-he-ti-sheng-zhan-li-hui-yi-cheng-yuan-de-can-yu-gan/">
         </link>
         <updated>2022-01-11T07:04:42.000Z</updated>
         <content type="html"><![CDATA[<p>站立会议可以及时发现问题进而解决问题，对推动周目标的达成必不可少。</p>
@@ -20,8 +20,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如何培养孩子的阅读习惯]]></title>
-        <id>https://lotuswxl.github.io/post/ru-he-pei-yang-hai-zi-de-yue-du-xi-guan/</id>
-        <link href="https://lotuswxl.github.io/post/ru-he-pei-yang-hai-zi-de-yue-du-xi-guan/">
+        <id>https://lotuswang.github.io/post/ru-he-pei-yang-hai-zi-de-yue-du-xi-guan/</id>
+        <link href="https://lotuswang.github.io/post/ru-he-pei-yang-hai-zi-de-yue-du-xi-guan/">
         </link>
         <updated>2022-01-11T07:01:25.000Z</updated>
         <content type="html"><![CDATA[<p>一、阅读习惯养成的重要性</p>
